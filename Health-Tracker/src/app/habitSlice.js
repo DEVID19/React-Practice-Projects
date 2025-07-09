@@ -1,7 +1,7 @@
 import { createSlice, nanoid } from "@reduxjs/toolkit";
 
 const initialState = {
-  habits: [],
+  habits: JSON.parse(localStorage.getItem("habits")) || [],
 };
 
 export const habitSlice = createSlice({
