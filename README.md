@@ -18,24 +18,24 @@ This repository is a curated collection of mini React projects built to **practi
 ## 📁 List of Projects
 
 ### 🔹 React + Tailwind CSS
-- 🔢 [Age Calculator](https://age-calculator-umber-alpha.vercel.app/)
-- ⚖️ [BMI Calculator](https://react-practice-projects-three.vercel.app/)
-- 🔁 [Counter App](https://counter-dun-tau.vercel.app/)
-- ➕ [Sum Calculator](https://sum-calculator-eight.vercel.app/)
+- 🔢 Age Calculator = (https://age-calculator-umber-alpha.vercel.app/)
+- ⚖️ BMI Calculator = (https://react-practice-projects-three.vercel.app/)
+- 🔁 Counter App = (https://counter-dun-tau.vercel.app/)
+- ➕ Sum Calculator = (https://sum-calculator-eight.vercel.app/)
 
 ### 🌐 React + API Integration
-- 💱 [Currency Converter](https://currency-converter-nine-dusky-28.vercel.app/)
-- 🌦️ [Weather App](https://weather-wheat-two.vercel.app/)
+- 💱 Currency Converter = (https://currency-converter-nine-dusky-28.vercel.app/)
+- 🌦️ Weather App = (https://weather-wheat-two.vercel.app/)
 
 ### 🌈 React + Context API
-- 💸 [Expense Tracker](https://expense-tracker-hazel-sigma.vercel.app/)
-- 🌓 [Theme Toggler](https://theme-navy-three.vercel.app/)
+- 💸 Expense Tracker = (https://expense-tracker-hazel-sigma.vercel.app/)
+- 🌓 Theme Toggler = (https://theme-navy-three.vercel.app/)
 
 ### 🧠 React + Redux Toolkit
-- 🏋️ [Health Tracker (Habit Tracker Included)](https://health-mu-pearl.vercel.app/)
+- 🏋️ Health Tracker = (https://health-mu-pearl.vercel.app/)
 
 ### 📝 React + localStorage
-- ✅ [Todo App](https://todo-zeta-livid.vercel.app/)
+- ✅ Todo App = (https://todo-zeta-livid.vercel.app/)
 
 ---
 
