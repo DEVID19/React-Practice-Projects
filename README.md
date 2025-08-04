@@ -60,7 +60,7 @@ Explore these mini-projects live using the links above. Each one demonstrates pr
 
 ## 🤝 Connect with Me
 
-- **Portfolio**: [devidbisen.netlify.app](https://devidbisen.netlify.app)
+- **Portfolio**: [devidbisen.netlify.app](https://devidbisen.vercel.app)
 - **LinkedIn**: [linkedin.com/in/devid-bisen](https://linkedin.com/in/devid-bisen)
 - **GitHub**: [github.com/DEVID19](https://github.com/DEVID19)
 
